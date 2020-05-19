@@ -1,0 +1,11 @@
+name: prody
+channels:
+  - conda-forge
+  - omnia
+  - defaults
+dependencies:
+  - prody
+  - jupyter
+  - matplotlib
+prefix: /Users/fpoitevi/miniconda3/envs/prody
+
